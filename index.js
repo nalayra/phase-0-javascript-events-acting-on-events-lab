@@ -29,3 +29,6 @@ function moveDodgerRight() {
         }
     });
 }
+const six = 6;
+six = six + 5;
+return six;
